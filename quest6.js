@@ -1,0 +1,6 @@
+let inteiro = prompt ("Insira um número:")
+let decimal = prompt ("Insira outro número:")
+inteiro = parseInt(inteiro)
+decimal = parseFloat(decimal)
+console.log (typeof inteiro)
+console.log (typeof decimal)
